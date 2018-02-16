@@ -32,3 +32,5 @@ d3.select("svg")
 .style("stroke", "#9A8B7A")
 .style("stroke-width", "1px");}
 ```
+
+## Chapter 3. Data-driven design and interaction
